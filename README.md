@@ -11,6 +11,6 @@
 -CSS
 <br>
 <br>
-<img src= https://github.com/WallacePorfiro/estudos-DevClub/blob/main/We%20Care-image-projeto.png?raw=true>
+<img src= https://github.com/WallacePorfiro/Wallaceporfiro.github.io/blob/main/We%20Care-image-projeto.png?raw=true >
 <br>
 
